@@ -21,3 +21,39 @@ layout: simple
   * 用``` ...  ``` 行不通
   * 需要加javascript 
   * 及标出div class="mermaid"
+  
+<div class="mermaid">
+graph LR;
+
+Tech>网络新媒体技术与协作] --> Web
+Tech --> Information_Visualization
+Tech --> Python
+Web --> |技术栈线|Bootstrap[前端开发框架]
+Bootstrap --> |技术栈线|NodeJS[网新交互技术栈基础架]
+NodeJS  --> |技术栈线|Vue[APP设计与制作]
+Web --> |交互界面|Interactions[互动技术与应用]
+Interactions --> |交互界面|Vue
+Information_Visualization>信息可视化设计]--> |建立分析基础|Big_Data
+Information_Visualization --> |建立分析基础|UX
+Information_Visualization --> |应用设计|Interactions
+Big_Data[大数据] --> |应用设计| API_ML_AI[API机器学习与人工智能]
+Big_Data -->|应用设计| Big_Data_Capacity[大数据能力建设]
+Big_Data --> |应用设计|Platform[平台经济与创新]
+Python>Python语言] --> |建立分析基础|Big_Data
+Python --> |技术栈线|NodeJS[网新交互技术栈基础架]
+Web>网页设计与制作] --> |建立分析基础|UX[新媒体分析和用户体验]
+Web --> |建立敍事基础|Convergence[媒介融合]
+Web --> |建立敍事基础|Video_Editing[数字音视频编辑]
+Convergence --> |应用设计|Video_Editing
+Web --> |建立分析基础|Online_Survey[线上调查与统计]
+Online_Survey --> |建立分析基础|User_Research[用户研究]
+Convergence --> Platform
+Python --> |建立基础|API_ML_AI
+UX --> |应用设计|API_ML_AI
+UX --> |应用设计|User_Research
+UX --> |应用设计|Platform
+Platform --> |应用设计|Vue
+User_Research --> |应用设计|Vue
+API_ML_AI --> |应用设计|Vue
+Big_Data_Capacity --> |应用设计|Vue
+</div>

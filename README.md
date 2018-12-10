@@ -1,5 +1,6 @@
 ---
 title: README.md
+layout: default
 ---
 
 # Jekyll Resume Theme

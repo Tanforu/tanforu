@@ -3,16 +3,14 @@ title: README.md
 layout: default
 ---
 
-# Jekyll Resume Theme
+# Jekyll 简历 主题
 
-A mega simple Jekyll theme for displaying a resume/cv online.
+一个超简单 jekyll 主题，用于在网上显示一个简历/cv。
 
-The theme follows the default Jekyll build as closely as possible to avoid any dependency issues.
+该主题尽可能紧密遵循默认的 jekyll 构建，以避免任何依赖问题。
 
-To customise you just need to fill out the `_config.yml` and the jobs and education `.yml` files in the `_data` directory with your own details.
+要自定义，您只需填写 "config.yml" 以及 "_data" 目录中 jobs 和 education 的 ".yml" 文件，并提供详细信息。
 
-You can see a demo of the theme at: [mattcouchman.co.uk/jekyll-resume](http://mattcouchman.co.uk/jekyll-resume)
+你可以在以下网址看到主题原作者的演示: [mattcouchman.co.uk/jekyll-resume] (http://mattcouchman.co.uk/jekyll-resume)
 
-Feel free to tear apart and rebuild as you wish.
-
-![Screenshot of resume theme](https://github.com/mattcouchman/jekyll-resume/raw/master/img/screen.png)
+请随意拆解和重建此项目。

@@ -13,4 +13,4 @@ layout: simple
 * Jekyll 的[头信息](http://jekyllcn.com/docs/frontmatter/)如何让.md档转换成.html档
   * 前端 [Jekyll 简历 主题](https://hanteng.gitee.io/jekyll-resume/README.html)
   * 後端 [Jekyll 简历 主题](https://gitee.com/hanteng/jekyll-resume/blob/master/_config.yml)
-  * 观察提交史 (commit history)[https://gitee.com/hanteng/jekyll-resume/commits/master]
+  * 观察[提交史 (commit history)](https://gitee.com/hanteng/jekyll-resume/commits/master)

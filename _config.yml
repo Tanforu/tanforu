@@ -1,19 +1,19 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
-email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+title: Han-Teng Liao
+email: hanteng@gmail.com
+description: Demo of using Jekyll Resume, a simple resume theme for Jekyll.
 baseurl: "/jekyll-resume"
 url: "https://hanteng.gitee.io"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+name: Han-Teng Liao
+job: Associate Professor
+location: Guangzhou, China
+languages: Python, People-Centered HCI and Sustainable Development Goals
+twitter_username: hanteng
+github_username:  hanteng
+codepen_username:  hanteng
+email_address: h.liao@oxon.org
 
 # Build settings
 markdown: kramdown

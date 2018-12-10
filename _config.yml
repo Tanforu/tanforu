@@ -4,8 +4,8 @@
 title: Jekyll Resume
 email: email@domain.com
 description: Jekyll Resume is a mega simple resume theme for Jekyll.
-baseurl: ""
-url: "http://mattcouchman.co.uk/jekyll-resume"
+baseurl: "/jekyll-resume"
+url: "https://hanteng.gitee.io"
 name: Matt Couchman
 job: front end engineer
 location: Birmingham, UK

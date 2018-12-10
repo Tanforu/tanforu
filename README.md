@@ -1,6 +1,6 @@
 ---
 title: README.md
-layout: default
+layout: simple
 ---
 
 # Jekyll 简历 主题
@@ -11,6 +11,6 @@ layout: default
 
 要自定义，您只需填写 "config.yml" 以及 "_data" 目录中 jobs 和 education 的 ".yml" 文件，并提供详细信息。
 
-你可以在以下网址看到主题原作者的演示: [mattcouchman.co.uk/jekyll-resume] (http://mattcouchman.co.uk/jekyll-resume)
+你可以在以下网址看到主题原作者的演示: [mattcouchman.co.uk/jekyll-resume](http://mattcouchman.co.uk/jekyll-resume)
 
 请随意拆解和重建此项目。
